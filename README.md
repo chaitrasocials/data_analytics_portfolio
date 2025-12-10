@@ -28,3 +28,16 @@ This project analyzes airline performance using Excel, Power BI, Tableau, and My
 	•	Analyzed delay patterns and operational bottlenecks
 	•	Highlighted revenue trends and occupancy metrics
 	•	Provided data-backed recommendations for improving airline efficiency
+
+
+
+# 📊 DASHBOARD PREVIEW
+
+### Power BI Dashboard
+![Power BI Dashboard](Powerbi.jpg)
+
+### Excel Dashboard
+![Excel Dashboard](Excel.jpg)
+
+### Tableau Dashboard
+![Tableau Dashboard](Tableau.jpg)
